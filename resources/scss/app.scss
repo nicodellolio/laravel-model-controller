@@ -1,0 +1,31 @@
+@import '~bootstrap/scss/bootstrap';
+
+* {
+    font-family: 'Abel', sans-serif;
+    font-family: 'Advent Pro', sans-serif;
+    margin: 0;
+}
+
+header{
+
+    .my_searchbar{
+        width: 20%;
+    }
+    
+    nav{
+        margin-right: -3rem;
+    }
+
+}
+
+main{
+    .card{
+        .titolo{
+            font-size: 2.8rem;
+        }
+    }
+    .footer{
+        margin-left: -1rem;
+    }
+    
+}
