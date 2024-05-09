@@ -3,7 +3,7 @@
 @section('content')
 
 
-    <div class="container py-5">
+    <div class="container movie_container">
         <div class="row row-cols-2 g-4">
             @foreach ($movies as $movie)
             <div class="col">
